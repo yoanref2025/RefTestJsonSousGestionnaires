@@ -137,6 +137,12 @@
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "si_egal_gestionnaire":true,
 	  "nom":"MAIRIE DE XXX"
+    },
+    {
+      "uid": "f9622832-c018-43fb-8c62-5c5180fc27d4",
+	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "si_egal_gestionnaire":true,
+	  "nom":"MAIRIE DE XXX"
     }
   ]
 }
