@@ -45,7 +45,7 @@
     {
       "uid": "1337e062-0e7d-4b24-8d2e-eccebcc86212",
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
-      "si_egal_gestionnaire":false,
+      "si_egal_gestionnaire":true,
 	  "nom":"MAIRIE DE W2"
     },
     {
@@ -87,7 +87,7 @@
     {
       "uid": "6e7bb95d-6448-45d6-babd-fe9e955bc0e6",
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
-      "si_egal_gestionnaire":false,
+      "si_egal_gestionnaire":true,
 	  "nom":"MAIRIE DE W2"
     },
     {
@@ -99,7 +99,7 @@
     {
       "uid": "a784c0ae-955b-4f54-a0ba-f85abfdfabdf",
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
-      "si_egal_gestionnaire":false,
+      "si_egal_gestionnaire":true,
 	  "nom":"MAIRIE DE W1"
     },
     {
@@ -141,7 +141,7 @@
     {
       "uid": "f9622832-c018-43fb-8c62-5c5180fc27d4",
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
-      "si_egal_gestionnaire":false,
+      "si_egal_gestionnaire":true,
 	  "nom":"MAIRIE DE W1"
     },
     {
