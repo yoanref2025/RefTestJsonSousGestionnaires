@@ -143,6 +143,18 @@
 	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
       "si_egal_gestionnaire":false,
 	  "nom":"MAIRIE DE W1"
+    },
+    {
+      "uid": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+      "si_egal_gestionnaire":false,
+	  "nom":"MAIRIE DE WASQUEHAL"
+    },
+    {
+      "uid": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
+	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+      "si_egal_gestionnaire":false,
+	  "nom":"MAIRIE DE MANOSQUE"
     }
   ]
 }
