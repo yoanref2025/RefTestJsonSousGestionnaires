@@ -2,12 +2,12 @@
   "sous_gestionnaires": [
     {
       "uid": "937e3c53-cff3-4182-854b-dd3f6e3b322a",
-	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+	  "uid_r": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
 	  "nom":"MAIRIE DE WASQUEHAL"
     },
     {
       "uid": "8b0babdd-bb04-4096-81d3-b6078acc39ff",
-	  "uid_g": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
+	  "uid_r": "1ba5310d-e1fa-43fd-8607-ecee9eac6516",
 	  "nom":"MAIRIE DE MANOSQUE"
     }
   ]
